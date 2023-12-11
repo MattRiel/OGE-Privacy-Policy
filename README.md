@@ -23,9 +23,6 @@ Third-party companies and individuals may be employed for various reasons, such 
 ### Security  
 While we strive to use commercially acceptable means of protecting your Personal Information, we cannot guarantee its absolute security. Transmission over the internet or electronic storage is not 100% secure.
 
-### Children’s Privacy  
-This Service is not intended for individuals under the age of 13. We do not knowingly collect personal identifiable information from children under 13. If discovered, such information is promptly deleted from our servers. Parents or guardians aware of a child under 13 providing us with personal information are encouraged to contact us.
-
 ### Changes to This Privacy Policy  
 Our Privacy Policy may be updated periodically, and users are advised to review it for any changes. Notifications of changes will be made by posting the updated Privacy Policy on this page. Changes are effective immediately upon posting.
 
